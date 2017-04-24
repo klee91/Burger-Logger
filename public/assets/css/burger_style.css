@@ -1,0 +1,11 @@
+#main {
+    margin: auto;
+}
+
+#listedBurgs, #devouredBurgs {
+    border: solid 1px black;
+}
+
+#addBurger {
+    margin: 0 auto;
+}
