@@ -47,7 +47,7 @@ body {
     color: #ffd217;
     bottom: 50px;
     text-shadow: 3px 3px 0 #FFF, 6px 6px 0 #5EAFA6;
-
+}
 hr {
     text-align: center;
     width: 80%;
@@ -59,7 +59,6 @@ h2 {
 #main {
     margin: auto;
 }
-
 
 #addBurger {
     margin: auto;
